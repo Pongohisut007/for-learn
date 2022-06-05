@@ -10,5 +10,6 @@ main(){
 	for(int i=0; i<o; i++){
 		cout << "0";
 	}
+	int a,b,c;
 	
 }
